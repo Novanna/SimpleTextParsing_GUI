@@ -56,7 +56,7 @@ namespace GUI_Lab6
         private void button2_Click(object sender, EventArgs e)
         {
             serialPort1.Close();
-            toolStripStatusLabel1.Text = serialPort1.PortName + " is closed!";
+            toolStripStatusLabel1.Text = serialPort1.PortName + " is closedddd!";
         }
     
 
